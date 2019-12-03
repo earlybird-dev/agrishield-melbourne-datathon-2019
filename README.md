@@ -6,4 +6,6 @@ AgriShield utilises time-series satellite images and other data resources such r
 # Result
 We were one of the 5 finalists giving a presentation in front of hundreds of people including many experts from ANZ, KPMG, Growing Data, etc. and came in 4th place at Melbourne Datathon 2019. 
 
-
+Here comes our work:
+- Video: https://lnkd.in/gKKjsvz
+- Presentation: https://lnkd.in/ge6-pZ8
