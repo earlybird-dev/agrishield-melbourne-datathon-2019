@@ -1,7 +1,7 @@
 # Introduction
 AgriShield is an agricultural insurance marketplace for farmers and brokers based in Australia.
 
-AgriShield utilises *time-series satellite images* and other data resources such rainfall, temperature, soil, etc. to provide users insights and forecast a field's production and also provide data to insurers to help them facilitate their actuarial modelling process.
+AgriShield utilises **time-series satellite images** and other data resources such rainfall, temperature, soil, etc. to provide users insights and forecast a field's production and also provide data to insurers to help them facilitate their actuarial modelling process.
 
 This repository includes my code on dealing with time-series satellite images. 
 
@@ -13,5 +13,5 @@ Here comes our work:
 - Presentation: https://lnkd.in/ge6-pZ8
 
 Here is the competition:
-- Data2App Melbourne Datathon 2019: http://www.datasciencemelbourne.com/datathon/data2app/
+- Melbourne Datathon 2019 (Data2App): http://www.datasciencemelbourne.com/datathon/data2app/
 - Satellite Image Data: https://medium.com/satellite-intelligence
